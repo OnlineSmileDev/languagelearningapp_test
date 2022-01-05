@@ -1,4 +1,4 @@
-# Intro
+# Introduction
 
 Hi! I am Noda Hikaru from Japan who applied to this React Native developer position and wrote test code with React Native and Typescript, Firebase upon requirement.
 ### completed 
@@ -10,10 +10,11 @@ Hi! I am Noda Hikaru from Japan who applied to this React Native developer posit
  in 2 hours
 
 # How to build and run app
+git clone https://github.com/nodahikaru/languagelearningapp_test.git
 
-> git clone https://github.com/nodahikaru/languagelearningapp_test.git
-> npm install
-> npx react-native run-ios
+    npm install
+    npx react-native run-ios
+    
 
 ## Firestore collection/document 
 collection name : 'sentences'
